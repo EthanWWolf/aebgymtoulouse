@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the AEB CT Tournament feature.
+ */
+
+include_once 'aeb_ct_tournament.features.inc';
